@@ -1,3 +1,4 @@
+> This is a fork from jincod buildpack
 # Heroku .NET Core Buildpack
 
 
@@ -73,13 +74,3 @@ heroku buildpacks:add --index 1 heroku/nodejs
 ```
 
 [Using Multiple Buildpacks for an App](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app)
-
-## Example
-
-[ASP.NET Core Demo App](https://github.com/jincod/AspNet5DemoApp)
-
-## Donation
-
-If this project help you, you can give me a cup of coffee ☕
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jincod/5)
